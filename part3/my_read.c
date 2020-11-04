@@ -11,12 +11,12 @@
 
 char *my_read(int fd, char *ret, int size)
 { 
-    size_t nb_read = read(fd, ret, size);
-    if (nb_read == -1) {
+    size_t nb_read = read(/*****/, /*****/, /*****/);
+    if (nb_read == /*****/) {
         printf("The function read didn't work.\n");
         free(ret);
         return (NULL);
-    } else if (nb_read == 0) {
+    } else if (nb_read == /*****/) {
         printf("The function read get the end-of-file.\n");
         free(ret);
         return (NULL);

@@ -15,8 +15,8 @@ int my_stat(char const *filepath)
     int check = 0;
     struct stat my_stat;
 
-    check = stat(filepath, &my_stat);
-    if (check == -1) {
+    check = stat(/*****/, /*****/);
+    if (check == /*****/) {
         printf("The function stat didn't work my friend.\n");
         return (check);
     } else {

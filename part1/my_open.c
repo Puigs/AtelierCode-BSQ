@@ -15,8 +15,8 @@ int my_open(char const *filepath)
 {
     int fd = 0;
 
-    fd = open(filepath, O_RDONLY);
-    if (fd == -1) {
+    fd = open(/*****/, /*****/);
+    if (fd == /*****/) {
         printf("The function open didn't work my friend\n");
         close(fd);
     } else
