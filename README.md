@@ -32,3 +32,4 @@ Ex : Si src = "banane" et que delim = "abc" nb sera égal à 3. (Car deux a et u
 Evidemment, je sais bien que vous n'aurez pas le temps de réaliser cette fonction en moins d'une heure. Cependant si vous commencez dès maintenant à réfléchir à comment réaliser cette fonction vous serez beaucoup plus aptes à réaliser cette fonction pour le desk de vendredi.
 Ne sous estimez pas cette fonction. Elle vous sera utile tout le long de votre année scolaire.
 </p>
+<p>PS : Pensez à follow <3</p>
